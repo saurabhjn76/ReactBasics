@@ -1,7 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e62de943-941f-486a-9dc9-935f1bf1e09d" name="Default" comment="" />
+    <list default="true" id="e62de943-941f-486a-9dc9-935f1bf1e09d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.csscomb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.csslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.flowconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.jscsrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/data-fetching.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/getting-started.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/how-to-configure-text-editors.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/react-style-guide.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/recipes/how-to-implement-routing.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/recipes/how-to-integrate-disqus.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/recipes/using-npm-and-webpack-as-a-build-tool.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/preprocessor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/actions/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/client.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/App/App.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/App/App.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/App/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ContactPage/ContactPage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ContactPage/ContactPage.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ContactPage/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ContentPage/ContentPage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ContentPage/ContentPage.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ContentPage/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ErrorPage/ErrorPage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ErrorPage/ErrorPage.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ErrorPage/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Feedback/Feedback.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Feedback/Feedback.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Feedback/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Footer/Footer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Footer/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Header/Header.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Header/Header.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Header/logo-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Header/logo-small@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Header/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Link/Link.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Link/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/LoginPage/LoginPage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/LoginPage/LoginPage.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/LoginPage/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Navigation/Navigation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Navigation/Navigation.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Navigation/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/NotFoundPage/NotFoundPage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/NotFoundPage/NotFoundPage.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/NotFoundPage/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/RegisterPage/RegisterPage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/RegisterPage/RegisterPage.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/RegisterPage/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/TextBox/TextBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/TextBox/TextBox.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/TextBox/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/withViewport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/constants/ActionTypes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/content/about.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/content/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/content/privacy.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/core/DOMUtils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/core/Location.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/core/db.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/core/fetch/fetch.client.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/core/fetch/fetch.server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/core/fetch/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/core/passport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/queries/content.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/queries/me.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/schema.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/types/ContentType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/types/UserType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/browserconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/crossdomain.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/humans.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/tile-wide.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/stores/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/views/error.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/views/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/build.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/clean.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/copy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/deploy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/lib/fetch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/lib/fs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/run.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/runServer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/start.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/webpack.config.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ReactBasics.iml" afterPath="$PROJECT_DIR$/.idea/ReactBasics.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
     <ignored path="ReactBasics.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,7 +126,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -20,86 +134,27 @@
     <favorites_list name="ReactBasics" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/server.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".eslintrc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.eslintrc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".flowconfig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.flowconfig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="deploy.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tools/deploy.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
-  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="38" />
-    <option name="y" value="21" />
-    <option name="width" value="1328" />
-    <option name="height" value="747" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+    <option name="x" value="37" />
+    <option name="y" value="-14" />
+    <option name="width" value="1330" />
+    <option name="height" value="783" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -123,60 +178,8 @@
               <option name="myItemId" value="ReactBasics" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="ReactBasics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ReactBasics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ReactBasics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ReactBasics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ReactBasics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ReactBasics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ReactBasics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ReactBasics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -187,20 +190,47 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.accepted" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
-  <component name="RunManager">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.test">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <method />
     </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
       <config-file value="" />
       <node-interpreter value="project" />
       <envs />
@@ -228,9 +258,9 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
+      <command value="run" />
       <scripts />
-      <node-interpreter value="project" />
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v8.1.2/bin/node" />
       <envs />
       <method />
     </configuration>
@@ -247,9 +277,25 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <configuration default="false" name="test" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="clean" />
+      </scripts>
+      <node-interpreter value="/usr/local/bin/node" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="npm.test" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -261,34 +307,56 @@
       <workItem from="1497510104155" duration="1000" />
       <workItem from="1497516399821" duration="57000" />
       <workItem from="1497516457925" duration="114000" />
-      <workItem from="1497516573335" duration="330000" />
+      <workItem from="1497516573335" duration="2968000" />
+      <workItem from="1497584645730" duration="2029000" />
+      <workItem from="1497588678289" duration="561000" />
+      <workItem from="1497589414675" duration="12000" />
+      <workItem from="1497589865337" duration="12000" />
+      <workItem from="1497590084859" duration="25000" />
+      <workItem from="1498208613494" duration="109000" />
+      <workItem from="1498208725063" duration="73000" />
+      <workItem from="1498208800738" duration="42000" />
+      <workItem from="1498208844311" duration="10000" />
+      <workItem from="1498208939558" duration="32000" />
+      <workItem from="1498208973143" duration="156000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="502000" />
+    <option name="totallyTimeSpent" value="6201000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="38" y="21" width="1328" height="747" extended-state="6" />
-    <editor active="false" />
+    <frame x="37" y="-14" width="1330" height="783" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24942617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32824427" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -298,50 +366,41 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/server.js" />
+    <entry file="file://$PROJECT_DIR$/.eslintrc" />
+    <entry file="file://$PROJECT_DIR$/.flowconfig" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/tools/deploy.js" />
+    <entry file="file://$PROJECT_DIR$/src/server.js" />
+    <entry file="file://$PROJECT_DIR$/.eslintrc" />
+    <entry file="file://$PROJECT_DIR$/.flowconfig" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/tools/deploy.js" />
+    <entry file="file://$PROJECT_DIR$/src/server.js" />
+    <entry file="file://$PROJECT_DIR$/.eslintrc" />
+    <entry file="file://$PROJECT_DIR$/.flowconfig" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/tools/deploy.js" />
+    <entry file="file://$PROJECT_DIR$/src/server.js" />
+    <entry file="file://$PROJECT_DIR$/.eslintrc" />
+    <entry file="file://$PROJECT_DIR$/.flowconfig" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/tools/deploy.js" />
+    <entry file="file://$PROJECT_DIR$/src/server.js" />
+    <entry file="file://$PROJECT_DIR$/.eslintrc" />
+    <entry file="file://$PROJECT_DIR$/.flowconfig" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/tools/deploy.js" />
+    <entry file="file://$PROJECT_DIR$/src/server.js" />
+    <entry file="file://$PROJECT_DIR$/.eslintrc" />
+    <entry file="file://$PROJECT_DIR$/.flowconfig" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/tools/deploy.js" />
     <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/src/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.eslintrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.flowconfig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/deploy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server.js" />
+    <entry file="file://$PROJECT_DIR$/.eslintrc" />
+    <entry file="file://$PROJECT_DIR$/.flowconfig" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/tools/deploy.js" />
   </component>
 </project>
